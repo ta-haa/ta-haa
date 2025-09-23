@@ -32,7 +32,7 @@
 
 <div align="center">
   <a href="https://play.google.com/store/apps/details?id=com.taha.atasozleri" target="_blank">
-  <img style="border:radius(100px)" src="https://github.com/ta-haa/Atasozleri_Oyunu_Secenekli/blob/main/atasozleri%20document/image/logo/yenilenmis%20logo/atasozleri_logo_1000.png?raw=true" width="50" height="50" alt="atasözleri oyunu seçenekli" />
+  <img style="border-radius(100px)" src="https://github.com/ta-haa/Atasozleri_Oyunu_Secenekli/blob/main/atasozleri%20document/image/logo/yenilenmis%20logo/atasozleri_logo_1000.png?raw=true" width="50" height="50" alt="atasözleri oyunu seçenekli" />
   </a>
 
   <a href="https://tahaaa.itch.io/flying-car-simulation" target="_blank">
