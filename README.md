@@ -32,19 +32,19 @@
 
 <div align="center">
   <a href="https://play.google.com/store/apps/details?id=com.taha.atasozleri" target="_blank">
-  <img src="https://github.com/ta-haa/Atasozleri_Oyunu_Secenekli/blob/main/atasozleri%20document/image/logo/yenilenmis%20logo/atasozleri_logo_1000.png?raw=true" width="120" height="50" alt="atasözleri oyunu seçenekli" />
+  <img src="https://github.com/ta-haa/Atasozleri_Oyunu_Secenekli/blob/main/atasozleri%20document/image/logo/yenilenmis%20logo/atasozleri_logo_1000.png?raw=true" width="50" height="50" alt="atasözleri oyunu seçenekli" />
   </a>
 
   <a href="https://tahaaa.itch.io/flying-car-simulation" target="_blank">
-    <img src="https://github.com/ta-haa/Teknofest_Ucan_Araba_Simulasyonu/blob/main/image/kapak.png?raw=true" width="52" height="40" alt="flying car simulation"  />
+    <img src="https://github.com/ta-haa/Teknofest_Ucan_Araba_Simulasyonu/blob/main/image/kapak.png?raw=true" width="50" height="50" alt="flying car simulation"  />
   </a>
 
   <a href="https://play.google.com/store/apps/details?id=com.taha.kidman" target="_blank">
-    <img src="https://github.com/ta-haa/forest_run/blob/main/document/forest.jpg?raw=true" width="52" height="40" alt="forest run"  />
+    <img src="https://github.com/ta-haa/forest_run/blob/main/document/forest.jpg?raw=true" width="50" height="50" alt="forest run"  />
   </a>
 
   <a href="https://play.google.com/store/apps/details?id=com.taha.staticninja" target="_blank">
-    <img src="https://github.com/ta-haa/Static-Ninja/blob/main/Assets/kapak.png?raw=true" width="52" height="40" alt="static ninja"  />
+    <img src="https://github.com/ta-haa/Static-Ninja/blob/main/Assets/kapak.png?raw=true" width="50" height="50" alt="static ninja"  />
   </a>
 </div>
 
